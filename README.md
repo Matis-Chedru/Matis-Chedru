@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Salut, moi c'est Matis ! 👋</h1>
-  <h3>👨‍💻 Étudiant en BUT Informatique (Parcours RACDV) @ IUT Montpellier</h3>
+  <h3>👨‍💻 Étudiant en BUT Informatique (Parcours RACDV) @IUT Montpellier</h3>
   
   <p>
     Passionné par la conception logicielle et le développement d'applications interactives, je construis des projets allant des moteurs de jeux aux prototypes IoT.
   </p>
 
   <!-- Remplace ton-username par ton vrai pseudo GitHub pour que les stats fonctionnent -->
-  <a href="https://github.com/ton-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=transparent&hide_border=true&title_color=ED8B00&icon_color=ED8B00" alt="GitHub Stats" height="150"/>
+  <a href="https://github.com/matis-chedru">
+    <img src="https://github-readme-stats.vercel.app/api?username=matis-chedru&show_icons=true&theme=transparent&hide_border=true&title_color=ED8B00&icon_color=ED8B00" alt="GitHub Stats" height="150"/>
   </a>
 </div>
 
@@ -17,8 +17,6 @@
 ## 🎯 Recherche d'Alternance / Stage (2026-2027)
 
 Je suis activement à la recherche d'un **stage** ou d'une **alternance** en développement logiciel dans la région de Montpellier.
-
-💡 **Mon avantage majeur :** Je suis disponible à **temps plein dès cet été (juillet / août)** pour un stage ou un CDD. C'est pour vous l'opportunité de me former sur votre stack technique afin que je sois 100 % autonome et opérationnel dès le début de mon alternance en septembre.
 
 ---
 
